@@ -1,0 +1,193 @@
+[
+  {
+    "name": "Ursa Major",
+    "abbreviation": "UMa",
+    "englishName": "Great Bear",
+    "lines": [
+      ["Dubhe", "Merak"],
+      ["Merak", "Phecda"],
+      ["Phecda", "Megrez"],
+      ["Megrez", "Alioth"],
+      ["Alioth", "Mizar"],
+      ["Mizar", "Alkaid"]
+    ],
+    "stars": {
+      "Dubhe": {"ra": 11.062, "dec": 61.751},
+      "Merak": {"ra": 11.031, "dec": 56.382},
+      "Phecda": {"ra": 11.897, "dec": 53.695},
+      "Megrez": {"ra": 12.257, "dec": 57.032},
+      "Alioth": {"ra": 12.900, "dec": 55.960},
+      "Mizar": {"ra": 13.399, "dec": 54.925},
+      "Alkaid": {"ra": 13.792, "dec": 49.313}
+    }
+  },
+  {
+    "name": "Orion",
+    "abbreviation": "Ori",
+    "englishName": "The Hunter",
+    "lines": [
+      ["Betelgeuse", "Bellatrix"],
+      ["Betelgeuse", "Alnitak"],
+      ["Bellatrix", "Alnilam"],
+      ["Alnitak", "Alnilam"],
+      ["Alnilam", "Mintaka"],
+      ["Mintaka", "Rigel"],
+      ["Alnitak", "Rigel"]
+    ],
+    "stars": {
+      "Betelgeuse": {"ra": 5.919, "dec": 7.407},
+      "Rigel": {"ra": 5.242, "dec": -8.201},
+      "Bellatrix": {"ra": 5.419, "dec": 6.350},
+      "Alnitak": {"ra": 5.679, "dec": -1.942},
+      "Alnilam": {"ra": 5.603, "dec": -1.202},
+      "Mintaka": {"ra": 5.533, "dec": -0.299}
+    }
+  },
+  {
+    "name": "Cassiopeia",
+    "abbreviation": "Cas",
+    "englishName": "The Queen",
+    "lines": [
+      ["Caph", "Schedar"],
+      ["Schedar", "Gamma Cas"],
+      ["Gamma Cas", "Ruchbah"],
+      ["Ruchbah", "Segin"]
+    ],
+    "stars": {
+      "Caph": {"ra": 0.153, "dec": 59.150},
+      "Schedar": {"ra": 0.675, "dec": 56.537},
+      "Gamma Cas": {"ra": 0.945, "dec": 60.717},
+      "Ruchbah": {"ra": 1.430, "dec": 60.235},
+      "Segin": {"ra": 1.906, "dec": 63.670}
+    }
+  },
+  {
+    "name": "Cygnus",
+    "abbreviation": "Cyg",
+    "englishName": "The Swan",
+    "lines": [
+      ["Deneb", "Delta Cyg"],
+      ["Delta Cyg", "Sadr"],
+      ["Sadr", "Gienah"],
+      ["Sadr", "Albireo"]
+    ],
+    "stars": {
+      "Deneb": {"ra": 20.691, "dec": 45.280},
+      "Sadr": {"ra": 20.371, "dec": 40.257},
+      "Gienah": {"ra": 20.771, "dec": 33.970},
+      "Delta Cyg": {"ra": 19.749, "dec": 45.131},
+      "Albireo": {"ra": 19.512, "dec": 27.960}
+    }
+  },
+  {
+    "name": "Lyra",
+    "abbreviation": "Lyr",
+    "englishName": "The Lyre",
+    "lines": [
+      ["Vega", "Epsilon Lyr"],
+      ["Vega", "Zeta Lyr"],
+      ["Epsilon Lyr", "Zeta Lyr"],
+      ["Zeta Lyr", "Beta Lyr"],
+      ["Beta Lyr", "Gamma Lyr"]
+    ],
+    "stars": {
+      "Vega": {"ra": 18.616, "dec": 38.783},
+      "Epsilon Lyr": {"ra": 18.737, "dec": 39.613},
+      "Zeta Lyr": {"ra": 18.746, "dec": 37.605},
+      "Beta Lyr": {"ra": 18.835, "dec": 33.363},
+      "Gamma Lyr": {"ra": 18.982, "dec": 32.689}
+    }
+  },
+  {
+    "name": "Aquila",
+    "abbreviation": "Aql",
+    "englishName": "The Eagle",
+    "lines": [
+      ["Altair", "Alshain"],
+      ["Altair", "Tarazed"],
+      ["Alshain", "Delta Aql"],
+      ["Tarazed", "Zeta Aql"]
+    ],
+    "stars": {
+      "Altair": {"ra": 19.846, "dec": 8.868},
+      "Alshain": {"ra": 19.921, "dec": 6.407},
+      "Tarazed": {"ra": 19.771, "dec": 10.613},
+      "Delta Aql": {"ra": 19.422, "dec": 3.115},
+      "Zeta Aql": {"ra": 19.091, "dec": 13.863}
+    }
+  },
+  {
+    "name": "Scorpius",
+    "abbreviation": "Sco",
+    "englishName": "The Scorpion",
+    "lines": [
+      ["Antares", "Tau Sco"],
+      ["Antares", "Sigma Sco"],
+      ["Sigma Sco", "Delta Sco"],
+      ["Delta Sco", "Beta Sco"],
+      ["Sigma Sco", "Shaula"]
+    ],
+    "stars": {
+      "Antares": {"ra": 16.490, "dec": -26.432},
+      "Shaula": {"ra": 17.560, "dec": -37.104},
+      "Tau Sco": {"ra": 16.006, "dec": -28.216},
+      "Sigma Sco": {"ra": 16.354, "dec": -25.593},
+      "Delta Sco": {"ra": 16.007, "dec": -22.622},
+      "Beta Sco": {"ra": 16.091, "dec": -19.805}
+    }
+  },
+  {
+    "name": "Leo",
+    "abbreviation": "Leo",
+    "englishName": "The Lion",
+    "lines": [
+      ["Regulus", "Eta Leo"],
+      ["Eta Leo", "Algieba"],
+      ["Algieba", "Zosma"],
+      ["Zosma", "Denebola"]
+    ],
+    "stars": {
+      "Regulus": {"ra": 10.139, "dec": 11.967},
+      "Denebola": {"ra": 11.818, "dec": 14.572},
+      "Algieba": {"ra": 10.333, "dec": 19.842},
+      "Zosma": {"ra": 11.237, "dec": 20.524},
+      "Eta Leo": {"ra": 10.122, "dec": 16.763}
+    }
+  },
+  {
+    "name": "Gemini",
+    "abbreviation": "Gem",
+    "englishName": "The Twins",
+    "lines": [
+      ["Castor", "Pollux"],
+      ["Castor", "Alhena"],
+      ["Pollux", "Delta Gem"],
+      ["Alhena", "Mu Gem"]
+    ],
+    "stars": {
+      "Castor": {"ra": 7.577, "dec": 31.888},
+      "Pollux": {"ra": 7.755, "dec": 28.026},
+      "Alhena": {"ra": 6.628, "dec": 16.399},
+      "Delta Gem": {"ra": 7.335, "dec": 21.982},
+      "Mu Gem": {"ra": 6.383, "dec": 22.514}
+    }
+  },
+  {
+    "name": "Taurus",
+    "abbreviation": "Tau",
+    "englishName": "The Bull",
+    "lines": [
+      ["Aldebaran", "Theta Tau"],
+      ["Aldebaran", "Gamma Tau"],
+      ["Gamma Tau", "Lambda Tau"],
+      ["Theta Tau", "El Nath"]
+    ],
+    "stars": {
+      "Aldebaran": {"ra": 4.599, "dec": 16.509},
+      "El Nath": {"ra": 5.438, "dec": 28.608},
+      "Theta Tau": {"ra": 4.477, "dec": 15.961},
+      "Gamma Tau": {"ra": 4.330, "dec": 15.628},
+      "Lambda Tau": {"ra": 4.008, "dec": 12.490}
+    }
+  }
+]

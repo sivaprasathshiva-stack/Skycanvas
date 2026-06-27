@@ -1,0 +1,37 @@
+# Flutter
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+build/
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+*.egg-info/
+
+# Astronomy data
+python/*.bsp
+python/*.bai
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Windows
+windows/flutter/ephemeral/
+
+# IDE
+.vscode/
+.vs/

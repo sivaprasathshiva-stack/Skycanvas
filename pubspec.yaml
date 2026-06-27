@@ -1,0 +1,51 @@
+name: skycanvas
+description: Turn any projector into a window to the universe
+version: 0.1.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # UI
+  cupertino_icons: ^1.0.8
+
+  # State management
+  provider: ^6.1.2
+
+  # Screen detection & window management
+  screen_retriever: ^0.1.9
+  window_manager: ^0.4.4
+
+  # Network & WebSocket
+  web_socket_channel: ^3.0.1
+  multicast_dns: ^0.3.2+7
+  network_info_plus: ^6.0.2
+
+  # JSON parsing
+  json_annotation: ^4.9.0
+
+  # File operations
+  path_provider: ^2.1.5
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+  json_serializable: ^6.8.0
+  build_runner: ^2.4.15
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/data/
+
+  fonts:
+    - family: Roboto
+      fonts:
+        - asset: fonts/Roboto-Regular.ttf
+        - asset: fonts/Roboto-Bold.ttf
+          weight: 700

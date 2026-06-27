@@ -1,0 +1,129 @@
+[
+  {
+    "id": "ursa_major",
+    "name": "Ursa Major",
+    "abbreviation": "UMa",
+    "lines": [
+      {"start": {"ra": 11.062, "dec": 61.751, "starName": "Dubhe"}, "end": {"ra": 11.897, "dec": 53.695, "starName": "Merak"}},
+      {"start": {"ra": 11.897, "dec": 53.695, "starName": "Merak"}, "end": {"ra": 12.257, "dec": 57.033, "starName": "Phecda"}},
+      {"start": {"ra": 12.257, "dec": 57.033, "starName": "Phecda"}, "end": {"ra": 12.534, "dec": 55.960, "starName": "Megrez"}},
+      {"start": {"ra": 12.534, "dec": 55.960, "starName": "Megrez"}, "end": {"ra": 12.900, "dec": 55.960, "starName": "Alioth"}},
+      {"start": {"ra": 12.900, "dec": 55.960, "starName": "Alioth"}, "end": {"ra": 13.399, "dec": 54.925, "starName": "Mizar"}},
+      {"start": {"ra": 13.399, "dec": 54.925, "starName": "Mizar"}, "end": {"ra": 13.792, "dec": 49.313, "starName": "Alkaid"}},
+      {"start": {"ra": 12.534, "dec": 55.960, "starName": "Megrez"}, "end": {"ra": 11.062, "dec": 61.751, "starName": "Dubhe"}}
+    ],
+    "metadata": {"description": "The Great Bear, home of the Big Dipper"}
+  },
+  {
+    "id": "orion",
+    "name": "Orion",
+    "abbreviation": "Ori",
+    "lines": [
+      {"start": {"ra": 5.919, "dec": 7.407, "starName": "Betelgeuse"}, "end": {"ra": 5.533, "dec": 9.934, "starName": "Bellatrix"}},
+      {"start": {"ra": 5.533, "dec": 9.934}, "end": {"ra": 5.679, "dec": -1.942, "starName": "Alnitak"}},
+      {"start": {"ra": 5.679, "dec": -1.942, "starName": "Alnitak"}, "end": {"ra": 5.604, "dec": -1.202, "starName": "Alnilam"}},
+      {"start": {"ra": 5.604, "dec": -1.202, "starName": "Alnilam"}, "end": {"ra": 5.533, "dec": -0.299, "starName": "Mintaka"}},
+      {"start": {"ra": 5.533, "dec": -0.299, "starName": "Mintaka"}, "end": {"ra": 5.242, "dec": -8.202, "starName": "Rigel"}},
+      {"start": {"ra": 5.242, "dec": -8.202, "starName": "Rigel"}, "end": {"ra": 5.533, "dec": -9.670, "starName": "Saiph"}},
+      {"start": {"ra": 5.533, "dec": -9.670, "starName": "Saiph"}, "end": {"ra": 5.679, "dec": -1.942, "starName": "Alnitak"}},
+      {"start": {"ra": 5.919, "dec": 7.407, "starName": "Betelgeuse"}, "end": {"ra": 5.533, "dec": -0.299, "starName": "Mintaka"}}
+    ],
+    "metadata": {"description": "The Hunter, one of the most recognizable constellations"}
+  },
+  {
+    "id": "cassiopeia",
+    "name": "Cassiopeia",
+    "abbreviation": "Cas",
+    "lines": [
+      {"start": {"ra": 0.675, "dec": 60.717}, "end": {"ra": 0.945, "dec": 60.235}},
+      {"start": {"ra": 0.945, "dec": 60.235}, "end": {"ra": 0.153, "dec": 59.150}},
+      {"start": {"ra": 0.153, "dec": 59.150}, "end": {"ra": 0.736, "dec": 56.537}},
+      {"start": {"ra": 0.736, "dec": 56.537}, "end": {"ra": 1.430, "dec": 55.776}}
+    ],
+    "metadata": {"description": "The Queen, forms a distinctive W shape"}
+  },
+  {
+    "id": "cygnus",
+    "name": "Cygnus",
+    "abbreviation": "Cyg",
+    "lines": [
+      {"start": {"ra": 20.691, "dec": 45.280, "starName": "Deneb"}, "end": {"ra": 20.371, "dec": 40.257}},
+      {"start": {"ra": 20.371, "dec": 40.257}, "end": {"ra": 19.749, "dec": 33.970, "starName": "Albireo"}},
+      {"start": {"ra": 20.371, "dec": 40.257}, "end": {"ra": 20.771, "dec": 33.967}},
+      {"start": {"ra": 20.371, "dec": 40.257}, "end": {"ra": 19.511, "dec": 27.960}}
+    ],
+    "metadata": {"description": "The Swan, also known as the Northern Cross"}
+  },
+  {
+    "id": "leo",
+    "name": "Leo",
+    "abbreviation": "Leo",
+    "lines": [
+      {"start": {"ra": 10.140, "dec": 11.967, "starName": "Regulus"}, "end": {"ra": 9.879, "dec": 26.152}},
+      {"start": {"ra": 9.879, "dec": 26.152}, "end": {"ra": 10.278, "dec": 23.417}},
+      {"start": {"ra": 10.278, "dec": 23.417}, "end": {"ra": 11.237, "dec": 20.523, "starName": "Denebola"}},
+      {"start": {"ra": 11.237, "dec": 20.523, "starName": "Denebola"}, "end": {"ra": 11.817, "dec": 14.572}},
+      {"start": {"ra": 11.817, "dec": 14.572}, "end": {"ra": 10.140, "dec": 11.967, "starName": "Regulus"}}
+    ],
+    "metadata": {"description": "The Lion, a zodiac constellation"}
+  },
+  {
+    "id": "scorpius",
+    "name": "Scorpius",
+    "abbreviation": "Sco",
+    "lines": [
+      {"start": {"ra": 16.490, "dec": -26.432, "starName": "Antares"}, "end": {"ra": 16.836, "dec": -34.293}},
+      {"start": {"ra": 16.836, "dec": -34.293}, "end": {"ra": 17.560, "dec": -37.104}},
+      {"start": {"ra": 17.560, "dec": -37.104}, "end": {"ra": 17.708, "dec": -39.030}},
+      {"start": {"ra": 16.490, "dec": -26.432, "starName": "Antares"}, "end": {"ra": 16.095, "dec": -19.805}},
+      {"start": {"ra": 16.095, "dec": -19.805}, "end": {"ra": 15.981, "dec": -26.114}}
+    ],
+    "metadata": {"description": "The Scorpion, contains the red supergiant Antares"}
+  },
+  {
+    "id": "gemini",
+    "name": "Gemini",
+    "abbreviation": "Gem",
+    "lines": [
+      {"start": {"ra": 7.577, "dec": 31.888, "starName": "Castor"}, "end": {"ra": 7.755, "dec": 28.026, "starName": "Pollux"}},
+      {"start": {"ra": 7.577, "dec": 31.888, "starName": "Castor"}, "end": {"ra": 6.629, "dec": 25.131}},
+      {"start": {"ra": 7.755, "dec": 28.026, "starName": "Pollux"}, "end": {"ra": 6.248, "dec": 22.507}}
+    ],
+    "metadata": {"description": "The Twins, representing Castor and Pollux"}
+  },
+  {
+    "id": "taurus",
+    "name": "Taurus",
+    "abbreviation": "Tau",
+    "lines": [
+      {"start": {"ra": 4.599, "dec": 16.509, "starName": "Aldebaran"}, "end": {"ra": 4.012, "dec": 12.490}},
+      {"start": {"ra": 4.599, "dec": 16.509, "starName": "Aldebaran"}, "end": {"ra": 5.438, "dec": 28.608}},
+      {"start": {"ra": 5.438, "dec": 28.608}, "end": {"ra": 5.628, "dec": 21.142}}
+    ],
+    "metadata": {"description": "The Bull, contains the Pleiades star cluster"}
+  },
+  {
+    "id": "lyra",
+    "name": "Lyra",
+    "abbreviation": "Lyr",
+    "lines": [
+      {"start": {"ra": 18.616, "dec": 38.784, "starName": "Vega"}, "end": {"ra": 18.835, "dec": 33.363}},
+      {"start": {"ra": 18.835, "dec": 33.363}, "end": {"ra": 18.747, "dec": 37.605}},
+      {"start": {"ra": 18.747, "dec": 37.605}, "end": {"ra": 18.616, "dec": 38.784, "starName": "Vega"}},
+      {"start": {"ra": 18.835, "dec": 33.363}, "end": {"ra": 18.982, "dec": 32.689}}
+    ],
+    "metadata": {"description": "The Lyre, contains the bright star Vega"}
+  },
+  {
+    "id": "aquila",
+    "name": "Aquila",
+    "abbreviation": "Aql",
+    "lines": [
+      {"start": {"ra": 19.846, "dec": 8.868, "starName": "Altair"}, "end": {"ra": 19.771, "dec": 1.006}},
+      {"start": {"ra": 19.771, "dec": 1.006}, "end": {"ra": 19.425, "dec": -1.287}},
+      {"start": {"ra": 19.846, "dec": 8.868, "starName": "Altair"}, "end": {"ra": 19.925, "dec": 13.864}},
+      {"start": {"ra": 19.846, "dec": 8.868, "starName": "Altair"}, "end": {"ra": 20.189, "dec": 14.997}}
+    ],
+    "metadata": {"description": "The Eagle, contains the bright star Altair"}
+  }
+]
