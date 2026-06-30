@@ -51,9 +51,10 @@ class SettingsScreen extends StatelessWidget {
                   style: TextStyle(color: Colors.white54, fontSize: 12),
                 ),
                 value: settings.showConstellationNames,
-                onChanged: (value) => settings.setShowConstellationNames(value),
+                onChanged: settings.showConstellations
+                    ? (value) => settings.setShowConstellationNames(value)
+                    : null,
                 secondary: const Icon(Icons.label, color: Colors.white),
-                enabled: settings.showConstellations,
               ),
               SwitchListTile(
                 title: const Text('Show Planets', style: TextStyle(color: Colors.white)),

@@ -50,7 +50,7 @@ class SkyCanvasApp extends StatelessWidget {
                 backgroundColor: Colors.black,
                 elevation: 0,
               ),
-              cardTheme: CardTheme(
+              cardTheme: CardThemeData(
                 color: const Color(0xFF0F172A),
                 elevation: 4,
                 shape: RoundedRectangleBorder(
